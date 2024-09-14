@@ -9,7 +9,7 @@ env:
   LOCATION: Israel Central
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: c0728a6b-a0fa-4686-9420-d4388fc67f2c
-  WEBAPP-NAME: eshoponweb-webapp-rg-eshoponweb-GitHubRepositoryAndAzureAccess
+  WEBAPP-NAME: rg-eshoponweb-GitHubRepositoryAndAzureAccess
 
 
 jobs:
